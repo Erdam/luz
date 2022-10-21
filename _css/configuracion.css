@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+:root
+{
+    /* ---- C O L O R E S ---- */
+    --colorDeFondo:#333;
+    --interruptorFondo:#212121;
+    --sombraInterruptor:rgba(0,0,0,.20);
+    --sombraCajaInterruptor:rgba(0,0,0,.30);
+    --colorLamparaInterruptorApagado:rgba(225,225,225,.25);
+    --colorLamparaInterruptorPrendido:rgb(204, 139, 109);
+    --colorLamparaInterruptorPrendidoluz:#fff;
+    --luzReflejo:rgba(228, 211, 199, 0.7);
+     /* ---- T A M A Ñ O S ---- */
+    --tamanioInterruptor:75px;
+    --tamanioCajaInterruptor:150px;
+    --tamañoCuadroDeLampara:318px;
+}
